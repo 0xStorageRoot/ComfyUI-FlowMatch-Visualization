@@ -1,0 +1,17 @@
+#  Edit the following fields to match your project
+
+[project]
+name = "comfyui-flowmatch-visualization"
+description = "repository for wan2.2 fun control denoise steps visualization(maybe work for others wan2.2 models)[comfyui-flowmatch-visualization](https://github.com/0xStorageRoot/FlowMatch-Visualization)."
+version = "0.1.0"
+license = {file = "LICENSE"}
+dependencies = ["numpy","torch","matplotlib"]
+
+[project.urls]
+Repository = "https://github.com/0xStorageRoot/FlowMatch-Visualization"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "0xstorageroot"
+DisplayName = "ComfyUI-FlowMatch-Visualization"
+Icon = ""
