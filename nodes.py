@@ -40,7 +40,7 @@ class FlowMatchSteps:
                     "INT", {"default": 0, "min": 0, "max": 100, "step": 1}
                 ),
                 "cfg_skip": (
-                    "FLOAT", {"default": 0.0, "min": 0.0, "max": 100.0, "step": 0.1}
+                    "FLOAT", {"default": 0.0, "min": 0.0, "max": 100.0, "step": 0.01}
                 ),
             },
             #  If the key is "optional", the value is optional.
