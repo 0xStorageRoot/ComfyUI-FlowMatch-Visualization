@@ -9,3 +9,6 @@ This addon can help to tell the detail of denoise steps using different transfor
 
 # Usage:
 ![image](https://github.com/0xStorageRoot/ComfyUI-FlowMatch-Visualization/blob/main/assets/example.png?raw=true)
+
+# Todo:
+Hardcode some scheduler config in code.Maybe will be removed. 
